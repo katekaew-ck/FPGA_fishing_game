@@ -1,0 +1,10 @@
+.Xil/
+build/
+*.jou
+*.log
+*.syr
+*.par
+*.bit
+*.bin
+*.dcp
+*.rpt
